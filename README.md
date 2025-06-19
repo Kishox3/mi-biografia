@@ -7,3 +7,7 @@
 - Jugar videojuegos
 - Hacer ciclismo
 - Jugar futbol
+
+## Contacto
+
+eduardo.peraza.vindas@gmail.com
